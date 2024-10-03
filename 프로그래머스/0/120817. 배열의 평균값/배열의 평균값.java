@@ -11,3 +11,6 @@ class Solution {
         return answer;
     }
 }
+
+        // return Arrays.stream(numbers).average().orElse(0);
+        // 스트림 기본문법이라 함
